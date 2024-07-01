@@ -1,0 +1,15 @@
+{
+  "name": "sanbercode_javascript",
+  "version": "1.0.0",
+  "description": "Code ini dibuat untuk menyelesaikan tugas bootcamp di sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node soal01.js",
+    "test2": "node soal02.js"
+  },
+  "author": "wahyu",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
