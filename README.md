@@ -9,5 +9,11 @@
 5. setelah sukses menginstall, anda dapat menjalan perintah eksekusi untuk soal 1 dan soal 2 dengan command berikut:
    Jalankan perintah :
    "node .\src\soal01.js" untuk soal nomer 01
-   atau
+   Berikut merupakan hasil running perintah diatas untuk soal 01
+   ![image](https://github.com/wahyuridho/SanberCode_JavaScript/assets/49488222/17435690-df46-41ad-8df0-c58539ced426)
+
+   
    "node .\src\soal02.js" untuk menjalankan code untuk soal nomer 2
+   Berikut merupakan hasil running perintah diatas untuk soal 02
+   ![image](https://github.com/wahyuridho/SanberCode_JavaScript/assets/49488222/c56865d8-8277-4922-8c80-b16060b758b6)
+
