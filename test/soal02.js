@@ -2,7 +2,7 @@
 const fs = require('fs');
 
 // Membaca file json productBin
-fs.readFile('./src/productBin.json', 'utf8', (err, jsonString) => {
+fs.readFile('./test/productBin.json', 'utf8', (err, jsonString) => {
     
     // Cetak error jika gagal membaca file json
     if (err) {
