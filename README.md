@@ -10,8 +10,10 @@
    Jalankan perintah :
    "node .\test\soal01.js" atau "npm run test" untuk soal nomer 01
    Berikut merupakan hasil running perintah diatas untuk soal 01
-   ![image](https://github.com/wahyuridho/SanberCode_JavaScript/assets/49488222/17435690-df46-41ad-8df0-c58539ced426)
+   ![image](https://github.com/wahyuridho/SanberCode_JavaScript/assets/49488222/f915116c-96d8-49a4-a175-11bca891718b)
 
-   "node .\src\soal02.js" atau "npm run test" untuk menjalankan code untuk soal nomer 2
+
+   "node .\test\soal02.js" atau "npm run test2" untuk menjalankan code untuk soal nomer 2
    Berikut merupakan hasil running perintah diatas untuk soal 02
-   ![image](https://github.com/wahyuridho/SanberCode_JavaScript/assets/49488222/c56865d8-8277-4922-8c80-b16060b758b6)
+   ![image](https://github.com/wahyuridho/SanberCode_JavaScript/assets/49488222/b5ca47ff-575c-4a21-af6c-ac2ea1799b28)
+
