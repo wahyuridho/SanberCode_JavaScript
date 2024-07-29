@@ -23,7 +23,7 @@ fs.readFile('./test/productBin.json', 'utf8', (err, jsonString) => {
             var quantity = element.quantity;
 
             // ambil data jika codenya FBR00040101
-            if(productCode = 'FBR00040101'){
+            if(productCode == 'FBR00040101'){
                 // menjumlahkan Quantity dari tiap element
                 totalQuantity = totalQuantity + quantity;
             }
